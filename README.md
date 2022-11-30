@@ -13,6 +13,7 @@
 ### Components
 - UISegmentedControl
 - UIRefreshControl
+- UIActivityIndicatorView
 - UICollectionView with Compositional and Flow Layout
 - UIStackView
 - Custom ViewControllers and Views
