@@ -1,4 +1,4 @@
-# SpaceX - Mobillium Jr Case
+# SpaceX
 
 ### Architecture
 - MVVM
